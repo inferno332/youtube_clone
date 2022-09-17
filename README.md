@@ -1,6 +1,5 @@
-# Getting Started with Create React App
+# Youtube Clone with Youtube v3 from RapidAPI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
