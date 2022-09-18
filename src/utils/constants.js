@@ -11,15 +11,15 @@ import GraphicEqIcon from '@mui/icons-material/GraphicEq';
 import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
+import NightlifeIcon from '@mui/icons-material/Nightlife';
 
 export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
     { name: 'New', icon: <HomeIcon /> },
-    { name: 'JS Mastery', icon: <CodeIcon /> },
+    { name: 'LofiGirl', icon: <MusicNoteIcon /> },
     { name: 'Coding', icon: <CodeIcon /> },
-    { name: 'ReactJS', icon: <CodeIcon /> },
-    { name: 'NextJS', icon: <CodeIcon /> },
+    { name: 'Schannel', icon: <NightlifeIcon /> },
     { name: 'Music', icon: <MusicNoteIcon /> },
     { name: 'Education', icon: <SchoolIcon /> },
     { name: 'Podcast', icon: <GraphicEqIcon /> },
@@ -34,10 +34,10 @@ export const categories = [
     { name: 'Crypto', icon: <DeveloperModeIcon /> },
 ];
 
-export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
-export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
-export const demoVideoUrl = '/video/GDa8kZLNhJ4';
-export const demoChannelTitle = 'JavaScript Mastery';
+export const demoThumbnailUrl = 'https://i.imgur.com/WH6QIAs.jpeg';
+export const demoChannelUrl = '/channel/UCeMGA2bOfdxhhXugbImCTnQ';
+export const demoVideoUrl = '/video/vVBNn4LqnRA';
+export const demoChannelTitle = 'Cam';
 export const demoVideoTitle =
-    'Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI';
+    'Cam - Rap Cho Vui (2020) (Full Mixtape)';
 export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png';
